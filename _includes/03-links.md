@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Image of Charles](https://charlescomp.github.io/assets/img/visionary.jpg)
