@@ -1,1 +1,1 @@
-![Image of Charles](https://charlescomp.github.io/assets/img/visionary.jpg)
+[Charles Marshall](https://www.charlesgmarshall.com/)
